@@ -1,0 +1,15 @@
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @fontsource/roboto
+npm install @mui/icons-material
+
+
+npm install -S @toolpad/core
+npm install -S @mui/material @mui/icons-material @emotion/react @emotion/styled
+npx create-toolpad-app@latest
+
+npm install lucide-react
+
+npm install @fortawesome/fontawesome-free
+
+npm install cloudinary-react
